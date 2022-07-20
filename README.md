@@ -3,13 +3,23 @@ Unit 19 Homework: Cryptocurrency Wallet
 
 Using the starter code available and my own modifications, I was able to complete the HW
 
-## Here's a screenshot of the streamlit application being run to open the interactive web interface
+## Here are the before screenshots of my account balance, and my transactions
 
-![StreamlitApplication](https://github.com/spearl7076/Unit18-PyChain-Ledger/blob/main/Running%20Streamlit%20Application%20Screen%20Shot.png?raw=true)
+### Account Balance
+![Account Balance Before](https://github.com/spearl7076/Unit19-Cryptocurrency-Wallet/blob/main/Ganache%20Address%20Balance%20and%20History%20Before.png?raw=true)
+### Transactions
+![Transactions Before](https://raw.githubusercontent.com/spearl7076/Unit19-Cryptocurrency-Wallet/main/Transactions%20Before.png)
+
+## Here are the after screenshots of my account balance, and my transactions
+
+### Account Balance
+![Account Balance After](https://github.com/spearl7076/Unit19-Cryptocurrency-Wallet/blob/main/Ganache%20Address%20Balance%20and%20History%20After.png?raw=true)
+### Transactions
+![Transactions After](https://raw.githubusercontent.com/spearl7076/Unit19-Cryptocurrency-Wallet/main/Transactions%20After.png)
 
 
-## Here's a screenshot of me testing the ledger by storing records to complete step 4
-![Step4](https://raw.githubusercontent.com/spearl7076/Unit18-PyChain-Ledger/main/Step%204%20Screenshot.png)
+## Here's a screenshot of the fintech_find.py program running on the web interface via streamlit
+![Fintech_finder](https://github.com/spearl7076/Unit19-Cryptocurrency-Wallet/blob/main/fintech_finder%20deployed%20on%20streamlit.png?raw=true)
 
-## Here's a screenshot of me testing the validation process by using the web interface
-![Step5](https://raw.githubusercontent.com/spearl7076/Unit18-PyChain-Ledger/main/Step%205%20Screenshot.png)
+## Here's a screenshot of the validated transaction running on the web interface via streamlit
+![Fintech_finder validated transaction](https://github.com/spearl7076/Unit19-Cryptocurrency-Wallet/blob/main/transaction%20exectuted%20on%20the%20web%20interface.png?raw=true)
